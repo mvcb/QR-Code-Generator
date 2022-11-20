@@ -3,3 +3,4 @@ A QR Code is a scannable code used to store information. QR codes are used to re
 
 ## ✨ Demo
 
+![|635x380](https://github.com/mvcb/QR-Code-Generator/blob/main/Demo.gif)
